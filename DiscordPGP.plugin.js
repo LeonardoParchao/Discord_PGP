@@ -10,7 +10,7 @@ module.exports = (() => {
   const config = {
     info: {
       name: "PGPEncrypt",
-      authors: [{ name: "YourName" }],
+      authors: [{ name: "UnjustRobust" }],
       version: "1.0.0",
       description: "PGP message encryption/decryption"
     },
